@@ -8,4 +8,4 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
-console.log(`Let's talk about ${topic}`);
+console.log(`Let 's talk about ${topic}`);
